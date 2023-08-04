@@ -1,19 +1,21 @@
 numpy
+pandas
 scipy
 matplotlib
 seaborn
+tabular
 
 scikit-learn
 
 # pytorch
-# torch
 
 nltk
 
+openpyxl
 
 ipykernel
 jupyter
-jupyter_contrib_nbextensions   #https://medium.com/somosfit/version-control-on-jupyter-notebooks-6b67a0cf12a3
+nbconvert   #https://medium.com/somosfit/version-control-on-jupyter-notebooks-6b67a0cf12a3
 
 tqdm
 

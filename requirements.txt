@@ -52,6 +52,8 @@ decorator==5.1.1
     # via ipython
 defusedxml==0.7.1
     # via nbconvert
+et-xmlfile==1.1.0
+    # via openpyxl
 exceptiongroup==1.1.2
     # via anyio
 executing==1.2.0
@@ -232,6 +234,8 @@ numpy==1.25.2
     #   scikit-learn
     #   scipy
     #   seaborn
+openpyxl==3.1.2
+    # via -r requirements.in
 overrides==7.3.1
     # via jupyter-server
 packaging==23.1
